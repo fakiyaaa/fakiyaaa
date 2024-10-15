@@ -1,8 +1,8 @@
- Hi there 👋
+# Hi there! 👋
 
 
 
-I'm Fakiya, Computer Science student at Minerva University! Here are some of my experiences and interests:
+I'm Fakiya, Computer Science student at Minerva University! Here are some of my ## Experiences and Interests:
 - 🌳 Python & ML/AI Instructor | iD Tech Camps | Palo Alto, CA, Stanford University
 - ⚡  Technology Intern | YouthSF | San Francisco, CA
 - 💁‍♀️ Founder of BirgeApp | Startup designed to foster psychological and mental development of females
