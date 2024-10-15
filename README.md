@@ -1,8 +1,9 @@
  Hi there 👋
 
-<!--
-**fakiyaaa/fakiyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 I'm Fakiya, Computer Science student at Minerva University! 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fakiya/)
 Experience
 
